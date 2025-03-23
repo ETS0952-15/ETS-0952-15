@@ -10,4 +10,10 @@ This method is a string method used to convert the first character of each word 
 # Str. swapcase () Method
 This method is a string method used to swap the case of all the characters in the string(uppercase becomes lowercase and the reverse).
 # Str. strip() Method
-This method is a string method that removes leading and trailing whitespace (or specified characters) from the string
+This method is a string method that removes leading and trailing whitespace (or specified characters) from the string.
+# Str. lstrip() Method
+This method is a string method that removes leading whitespace (or specified characters) from the string.
+# Str. rstrip() Method
+This method is a string method that removes trailing whitespace (or specified characters) from the string.
+# Str. replace() Method
+This method is string method that replaces all occurences of a sub-string with another sub-string.
