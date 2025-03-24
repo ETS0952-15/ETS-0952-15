@@ -17,3 +17,9 @@ This method is a string method that removes leading whitespace (or specified cha
 This method is a string method that removes trailing whitespace (or specified characters) from the string.
 # Str. replace() Method
 This method is string method that replaces all occurences of a sub-string with another sub-string.
+# Str. split() Method
+This method is string method that splits the string into a list of sub-string based on a delimeter.
+# Str. join() Method
+This method is string method that joins elements of an iterable(e.g., list) into a single string using the string as a separator. 
+# Str. find() Method
+This method is string method that returns the lowest index of the substring if found, otherwise returns. 
