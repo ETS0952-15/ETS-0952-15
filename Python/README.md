@@ -23,3 +23,9 @@ This method is string method that splits the string into a list of sub-string ba
 This method is string method that joins elements of an iterable(e.g., list) into a single string using the string as a separator. 
 # Str. find() Method
 This method is string method that returns the lowest index of the substring if found, otherwise returns. 
+# Str. index() Method
+This method is string method similar to `find()`, but raises a `ValueError` if the substring is not found.
+# Str. count() Method
+This method is string method that returns the numberof non overlapping occurences of a substring in the string.
+# Str. startswith() Method
+This method is string method that checks if the string starts with a specified prefix.
