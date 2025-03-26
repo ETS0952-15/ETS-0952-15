@@ -29,3 +29,9 @@ This method is string method similar to `find()`, but raises a `ValueError` if t
 This method is string method that returns the numberof non overlapping occurences of a substring in the string.
 # Str. startswith() Method
 This method is string method that checks if the string starts with a specified prefix.
+# Str. endswith() Method
+This method is string method that checks if the string starts with a specified prefix.
+# Str. isalpha() Method
+This method is string method that checks if all characters in the strings are alphaetic(letters).
+# Str. isalnum() Method
+This method is string method that checks if all characters in alphanumeric(letters or digits).
