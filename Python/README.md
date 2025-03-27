@@ -35,3 +35,9 @@ This method is string method that checks if the string starts with a specified p
 This method is string method that checks if all characters in the strings are alphaetic(letters).
 # Str. isalnum() Method
 This method is string method that checks if all characters in alphanumeric(letters or digits).
+# Str. isdigit() Method
+This method is string method that checks if all characters in string are digits.
+# Str. islower() Method
+This method is string method that checks if all characters in the string are lowercase.
+# Str. isupper() Method
+This method is string method that checks if all characters in the string are uppercase.
