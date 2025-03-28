@@ -41,3 +41,9 @@ This method is string method that checks if all characters in string are digits.
 This method is string method that checks if all characters in the string are lowercase.
 # Str. isupper() Method
 This method is string method that checks if all characters in the string are uppercase.
+# Str. isspace() Method
+This method is string method that checks if all characters in the string are whitespace(blank).
+# Str. zfill() Method
+This method is string method that pads the string with zeros on the left until it reaches the specified length.
+# Str. format() Method
+This method is string method that formats the string by replacing place holders`()` with specified values. 
