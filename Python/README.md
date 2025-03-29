@@ -46,4 +46,10 @@ This method is string method that checks if all characters in the string are whi
 # Str. zfill() Method
 This method is string method that pads the string with zeros on the left until it reaches the specified length.
 # Str. format() Method
-This method is string method that formats the string by replacing place holders`()` with specified values. 
+This method is string method that formats the string by replacing place holders`()` with specified values.
+ # Str. center() Method
+This method is string method that centers the strings in the field of a specified width. 
+# Str. ljust() Method
+This method is string method that left-justifies the string in a field of a specified width.
+# Str. rjust() Method
+This method is string method that right-justifies the string in a field of a specified width.
