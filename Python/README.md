@@ -53,3 +53,9 @@ This method is string method that centers the strings in the field of a specifie
 This method is string method that left-justifies the string in a field of a specified width.
 # Str. rjust() Method
 This method is string method that right-justifies the string in a field of a specified width.
+# Str. expandtabs() Method
+This method is string method that replaces tab characters(`\t`) with spaces.
+# Str. encode() Method
+This method is string method that encodes the string into bytes using a specified encoding (default is `utf-8`).
+# Str. translate() Method
+This method is string method that translates the string using a translation table(created with`str. maketrans()` ) 
