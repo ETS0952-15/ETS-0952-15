@@ -6,5 +6,10 @@ This method is list method that removes all elements from the list lst-which bec
 This method is list method that returns a copy of the list `lst`.` Copies only the list not the elements in the list(shallow copy)
 # lst. count() method
 This method is list method that counts the number of occurence of element x in the list `lst`.
-
+# lst. extend() method
+This method is list method that adds all elments of an iterable `iter`(another list) to the list `lst`.
+# lst. index() method
+This method is list method that returns the position (index) of the first occurrence of the given element of the list.
+# lst. insert() method
+This method is list method that inserts element at position (index) `i` in the list `lst`.
 
