@@ -12,4 +12,11 @@ This method is list method that adds all elments of an iterable `iter`(another l
 This method is list method that returns the position (index) of the first occurrence of the given element of the list.
 # lst. insert() method
 This method is list method that inserts element at position (index) `i` in the list `lst`.
-
+# lst. pop([i]) method
+This method is list method that removes and returns the element at index i (last element if i is omitted).
+# lst.remove(x) method 
+This method is list method that removes the first occurrence of element x.
+# lst.reverse() method
+This method is list method that reverses the order of the list in place.
+# lst.sort() Method
+This method is list method that sorts the list in ascending order (can use custom key and reverse options).
