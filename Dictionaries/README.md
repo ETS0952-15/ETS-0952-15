@@ -19,3 +19,12 @@ This method is dictionary method that removes the specified key and returns the 
 If the key is not found, it raises a KeyError unless a default value is provided.
 This method is useful for removing items from a dictionary while also retrieving their values.
 The popitem() method removes and returns the last inserted key-value pair as a tuple.
+# Dict. copy() method
+This method is dictionary method that creates a shallow copy of the dictionary, meaning it copies the dictionary itself but not the objects it contains.
+If the dictionary contains mutable objects (like lists), changes to those objects in the copied dictionary will also affect the original dictionary.
+# Dict. clear() method
+This method is dictionary method that removes all items from the dictionary, leaving it empty.
+After calling clear(), the dictionary will have no key-value pairs, and its length will be 0. 
+# Dict. popitem() method
+The popitem() method is useful when you want to remove and retrieve the last inserted item from a dictionary.
+It can be helpful in various scenarios, such as implementing a stack or managing a cache.

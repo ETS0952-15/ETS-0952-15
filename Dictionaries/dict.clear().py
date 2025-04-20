@@ -1,4 +1,3 @@
-# Example dictionary
 my_dict = {"name": "Minte", "age": 20, "city": "Addis Ababa"}
 
 # Clear the dictionary

@@ -10,3 +10,5 @@ copied_dict['d'] = 4
 # Print both dictionaries
 print("Original Dictionary:", original_dict)
 print("Copied Dictionary:", copied_dict)
+# Output: Original Dictionary: {'a': 1, 'b': 2, 'c': 3} 
+#         Copied Dictionary: {'a': 1, 'b': 2, 'c': 3, 'd': 4}
