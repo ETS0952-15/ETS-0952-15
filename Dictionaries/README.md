@@ -28,3 +28,7 @@ After calling clear(), the dictionary will have no key-value pairs, and its leng
 # Dict. popitem() method
 The popitem() method is useful when you want to remove and retrieve the last inserted item from a dictionary.
 It can be helpful in various scenarios, such as implementing a stack or managing a cache.
+# Dict. fromkeys(iterable,value=none) method
+This method is dictionary method that creates a new dictionary with keys from an iterable and a specified value.
+# Dict. setdefault(key, default=None) method
+This method is dictionary method that returns the value of the key if it exists; otherwise, inserts the key with the specified default value.
